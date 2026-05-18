@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 3000 3000">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        font-family: Futura-MediumItalic, Futura;
+        font-size: 1000px;
+        font-style: italic;
+        font-weight: 500;
+        letter-spacing: .03em;
+      }
+
+      .st1 {
+        fill: #9caf88;
+      }
+
+      .st2 {
+        fill: #ccbbdb;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <text class="st2" transform="translate(353.5996 1749.9387) scale(1 1.5)"><tspan x="0" y="0">t</tspan></text>
+  <text class="st2" transform="translate(677.0566 1749.9387) scale(1 1.2)"><tspan x="0" y="0">hng.</tspan></text>
+  <text class="st2" transform="translate(2821.4702 1749.9387)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st1" transform="translate(381.5564 1807.0393) scale(1 1.5)"><tspan x="0" y="0">t</tspan></text>
+  <text class="st1" transform="translate(705.0134 1807.0393) scale(1 1.2)"><tspan x="0" y="0">hng.</tspan></text>
+  <text class="st1" transform="translate(2849.427 1807.0393)"><tspan x="0" y="0"> </tspan></text>
+  <text class="st0" transform="translate(401.9829 1854.5205) scale(1 1.5)"><tspan x="0" y="0">t</tspan></text>
+  <text class="st0" transform="translate(725.44 1854.5205) scale(1 1.2)"><tspan x="0" y="0">hng.</tspan></text>
+  <text class="st0" transform="translate(2869.8535 1854.5205)"><tspan x="0" y="0"> </tspan></text>
+</svg>

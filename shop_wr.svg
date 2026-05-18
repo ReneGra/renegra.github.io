@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #9caf88;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: .3px;
+      }
+
+      .st1 {
+        font-family: Futura100-Book, 'Futura 100';
+        font-size: 6px;
+      }
+    </style>
+  </defs>
+  <text class="st1" transform="translate(5.71 13.94)"><tspan x="0" y="0">shop.</tspan></text>
+  <path class="st0" d="M10.94,8.71c-2-.85-5.06-.4-5.91.45s-1.16,5.36-.32,6.07c.61.51,6.59,1.51,6.65-.87"/>
+  <path class="st0" d="M9.5,7.85s-.39-2.9-2.06-2.9-2.15,3.14-2.15,3.14"/>
+  <path class="st0" d="M6.57,7.56s.23-1.35,1.13-1.8"/>
+  <path class="st0" d="M9.34,5.18c.55-.06,1.61.87,1.61,2.12"/>
+</svg>
